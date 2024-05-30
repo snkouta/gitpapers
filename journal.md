@@ -6,3 +6,4 @@ Sarah and neuroscience rules
 # Add results section
 # Add figures section 
 # Write Conclusions
+# Add author affiliations 
