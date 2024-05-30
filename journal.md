@@ -4,3 +4,4 @@ Sarah and neuroscience rules
 # Use reference in introduction
 # Add second reference to introduction
 # Add results section
+# Add figures section 
